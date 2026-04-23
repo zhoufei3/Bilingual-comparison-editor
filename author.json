@@ -1,0 +1,11 @@
+{
+  "name": "Benson",
+  "avatar": "https://avatars.githubusercontent.com/u/你的GitHub用户ID",
+  "location": "github",
+  "bio": "X",
+  "description": "这个工具是为双语内容创作者设计的，帮助快速完成中英文对照编辑、翻译和朗读练习。",
+  "links": [
+    { "label": "YouTube", "url": "https://youtube.com/@你的频道" },
+    { "label": "GitHub", "url": "https://github.com/zhoufei3" }
+  ]
+}

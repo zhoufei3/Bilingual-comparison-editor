@@ -1,9 +1,18 @@
-﻿[
+[
   {
-    "version": "v2.36",
+    "version": "v2.38",
+    "date": "2025-04-25",
+    "type": "feature",
+    "title": "新增关于页面 & 多主题",
+    "content": "支持从 GitHub 读取作者简介和公告，新增 7 种主题、16 种字体。",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/zhoufei3/Bilingual-comparison-editor@main/双语对照编辑器.html"
+  },
+    {
+    "version": "v2.35",
     "date": "2025-04-24",
-    "type": "notice",
-    "title": "🎉 双语对照编辑器正式发布",
-    "content": "支持中英双向翻译、对照模式、按句分行、朗读、快照历史等功能，7 种主题，16 种字体。"
+    "type": "feature",
+    "title": "🎉 正式发布",
+    "content": "双语对照编辑器首次发布。",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/zhoufei3/Bilingual-comparison-editor@main/双语对照编辑器.zip"
   }
 ]

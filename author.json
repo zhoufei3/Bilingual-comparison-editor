@@ -9,7 +9,7 @@
     { "label": "GitHub", "url": "https://github.com/zhoufei3" }
   ],
   "说明": "这里是赞赏图片的开关和图片链接，注意前面有空格",
-  "show_profile_images": true,
+  "show_profile_images": false,
   "profile_images": [
     {
       "url": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/avatar.jpg",

@@ -1,11 +1,18 @@
 {
   "name": "Benson",
   "avatar": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/avatar.jpg",
-  "location": "github",
-  "bio": "X",
+  "location": "广西",
+  "bio": "我希望用AI重新探索这个世界，我并不是程序员，但每天都在用AI工作，希望我们普通人也能用AI做出有价值的东西，并且帮助到更多的人。",
   "description": "这个工具是为双语内容创作者设计的，帮助快速完成中英文对照编辑、翻译和朗读练习，对你有帮助请别忘记关注我。",
   "links": [
     { "label": "YouTube", "url": "https://youtube.com/@你的频道" },
     { "label": "GitHub", "url": "https://github.com/zhoufei3" }
+  ],
+   "show_profile_images": true,
+  "profile_images": [
+    {
+      "url": "https://raw.githubusercontent.com/.../reward.jpg",
+      "caption": "赞赏码"
+    }
   ]
 }

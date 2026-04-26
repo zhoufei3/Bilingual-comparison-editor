@@ -8,12 +8,12 @@
     { "label": "YouTube", "url": "https://youtube.com/@你的频道" },
     { "label": "GitHub", "url": "https://github.com/zhoufei3" }
   ],
-  "【说明】": "这里是赞赏图片的开关和图片链接 注意前面有空格 ",
+  "说明": "这里是赞赏图片的开关和图片链接，注意前面有空格",
   "show_profile_images": true,
   "profile_images": [
     {
       "url": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/avatar.jpg",
-      "caption": "【赞赏我以支持我持续开发】"
+      "caption": "赞赏我以支持我持续开发"
     }
   ]
 }

@@ -1,14 +1,25 @@
 [
+  {    
+    "说明": "【这里是banner专属的通知公告，必须放在第一条的位置】",
+    "version": "v1.2.0",
+    "type": "feature",
+    "date": "2025-04-26",
+    "title": "新增生词本功能",
+    "content": "支持划词收藏、卡片翻转、乱序练习等。",
+    "banner": "v1.2.0 发布：新增生词本功能，划词即可收藏，支持卡片翻转练习！"
+  },
+  
   {
-    "version": "v2.38",
+    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，"downloadUrl"为空则不显示下载按钮】",
+    "version": "v1.1.0",
     "date": "2025-04-25",
     "type": "feature",
     "title": "新增关于页面 & 多主题",
-    "content": "支持从 GitHub 读取作者简介和公告，新增 7 种主题、16 种字体。",
+    "content": "新增加多种功能。",
     "downloadUrl": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/多语言对照编辑器-正式版.zip"
   },
     {
-    "version": "v2.35",
+    "version": "v1.0.0",
     "date": "2025-04-24",
     "type": "notice",
     "title": "🎉 正式发布",
@@ -16,3 +27,4 @@
     "downloadUrl": ""
   }
 ]
+

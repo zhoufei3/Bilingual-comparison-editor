@@ -10,7 +10,7 @@
   },
 
     {
-    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮】",
+    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮",
     "version": "v1.2.0",
     "date": "2025-04-25",
     "type": "feature",
@@ -19,7 +19,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/多语言对照编辑器.zip"
   },
   {
-    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮"】",
+    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮",
     "version": "v1.1.0",
     "date": "2025-04-25",
     "type": "feature",

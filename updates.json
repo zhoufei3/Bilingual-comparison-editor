@@ -4,19 +4,28 @@
     "version": "v1.2.0",
     "type": "feature",
     "date": "2025-04-26",
-    "title": "新增生词本功能",
-    "content": "支持划词收藏、卡片翻转、乱序练习等。",
+    "title": "无",
+    "content": "无",
     "banner": "v1.2.0 发布：新增生词本功能，划词即可收藏，支持卡片翻转练习！"
   },
-  
+
+    {
+    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮，格式为"https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/多语言对照编辑器.zip"】",
+    "version": "v1.2.0",
+    "date": "2025-04-25",
+    "type": "feature",
+    "title": "新增生词本功能",
+    "content": "新增生词本功能，划词即可收藏，支持卡片翻转练习！",
+    "downloadUrl": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/多语言对照编辑器.zip"
+  },
   {
-    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮】",
+    "说明": "【这里是关于的公告和升级拉取位置，可叠加多条，downloadUrl为空则不显示下载按钮，格式为"https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/多语言对照编辑器.zip"】",
     "version": "v1.1.0",
     "date": "2025-04-25",
     "type": "feature",
     "title": "新增关于页面 & 多主题",
     "content": "新增加多种功能。",
-    "downloadUrl": "https://raw.githubusercontent.com/zhoufei3/Bilingual-comparison-editor/main/多语言对照编辑器-正式版.zip"
+    "downloadUrl": ""
   },
     {
     "version": "v1.0.0",
